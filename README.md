@@ -2,6 +2,8 @@
 A real-time plant disease detection system that helps farmers identify diseases from crop images. Users can upload photos of plants, and the system provides instant diagnosis along with preventive recommendations.
 # Plant Disease Detection with Web Interface 🌱💻
 
+## https://agro-speak-pilot.lovable.app
+
 This project helps **farmers detect plant diseases** in real-time using images of their crops. Users can upload pictures of plants, and the system analyzes them to identify diseases and suggest preventive measures. It features a **web interface** and a **real-time backend** for instant results. 🚜🌿
 
 ---
